@@ -45,6 +45,7 @@ Run the following script to train and evaluate the model:
 
 ```bash
 python Assignment_1_M3_LSTM_Stock_prediction.ipynb
+```
 
 ## 📈 Results & Future Improvements  
 
@@ -93,7 +94,7 @@ Run the script to train and test the model:
 
 ```bash
 python Assignment_2_M3_Financial_Sentiment_Classifier.ipynb
-
+```
 ## 📈 Results & Future Improvements  
 
 - 📊 **Higher accuracy** with domain-specific embeddings  
