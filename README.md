@@ -55,7 +55,7 @@ python Assignment_1_M3_LSTM_Stock_prediction.ipynb
 
 ---
 
-# 🟡 Assignment 2: Sentiment Classifier using SBERT  
+# 🟡 Assignment 2: Sentiment Classifier using SBERT: https://huggingface.co/MarkusHenriksson13/Financial_Sentiment_Classifier
 
 ## 🔍 Overview  
 This project implements a **financial sentiment classifier** using **Sentence-BERT (SBERT)**. The model is trained on **financial news headlines** to predict whether the sentiment is **positive, negative, or neutral**.  
